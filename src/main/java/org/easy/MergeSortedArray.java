@@ -27,4 +27,11 @@ public class MergeSortedArray {
 
     }
 }
+/*
+The two pointer technique.
+Compares a value from each array.
+And places it to the left or to the right depending on whether it is less than or greater than the target number
+Keeps running until the one array reaches 0 first.
+If there are still numbers in the 2nd array, keep adding to the first array until the 2nd one empties.
 
+ */
